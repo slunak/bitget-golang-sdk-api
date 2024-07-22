@@ -1,4 +1,4 @@
-module bitget
+module github.com/slunak/bitget-golang-sdk-api
 
 go 1.17
 
