@@ -1,3 +1,16 @@
+# About this repository
+
+This is a simple copy of the official Bitget API SDK fro Go.
+
+The original repository is located at https://github.com/BitgetLimited/v3-bitget-api-sdk/tree/master/bitget-golang-sdk-api
+
+No changes have been made to the code, except:
+
+- The `README.md` file has been updated to reflect the contents of the repository.
+- Deleted `cmd` directory with the `bitget.go` file.
+
+Last synced on 2024-07-22
+
 # Bitget Go
 
 使用此sdk前请阅读api文档 [Bitget API](https://bitgetlimited.github.io/apidoc/en/mix/)
