@@ -1,7 +1,7 @@
 package v1
 
 import (
-	"bitget/internal/common"
+	"github.com/slunak/bitget-golang-sdk-api/internal/common"
 )
 
 type MixMarketClient struct {

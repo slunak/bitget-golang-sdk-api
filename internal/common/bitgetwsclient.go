@@ -1,11 +1,12 @@
 package common
 
 import (
-	"bitget/config"
-	"bitget/constants"
-	"bitget/internal"
-	"bitget/internal/model"
-	"bitget/logging/applogger"
+	"github.com/slunak/bitget-golang-sdk-api/config"
+	"github.com/slunak/bitget-golang-sdk-api/constants"
+	"github.com/slunak/bitget-golang-sdk-api/internal"
+	"github.com/slunak/bitget-golang-sdk-api/internal/model"
+	"github.com/slunak/bitget-golang-sdk-api/logging/applogger"
+
 	"fmt"
 	"github.com/gorilla/websocket"
 	"github.com/robfig/cron"

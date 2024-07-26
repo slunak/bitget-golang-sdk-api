@@ -1,8 +1,8 @@
 package v2
 
 import (
-	"bitget/internal"
-	"bitget/internal/common"
+	"github.com/slunak/bitget-golang-sdk-api/internal"
+	"github.com/slunak/bitget-golang-sdk-api/internal/common"
 )
 
 type SpotMarketClient struct {

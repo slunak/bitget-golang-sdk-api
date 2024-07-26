@@ -1,8 +1,9 @@
 package test
 
 import (
-	"bitget/internal/model"
-	"bitget/pkg/client/ws"
+	"github.com/slunak/bitget-golang-sdk-api/internal/model"
+	"github.com/slunak/bitget-golang-sdk-api/pkg/client/ws"
+
 	"fmt"
 	"testing"
 )

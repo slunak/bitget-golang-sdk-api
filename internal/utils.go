@@ -1,7 +1,8 @@
 package internal
 
 import (
-	"bitget/constants"
+	"github.com/slunak/bitget-golang-sdk-api/constants"
+
 	"encoding/json"
 	"errors"
 	"net/http"
